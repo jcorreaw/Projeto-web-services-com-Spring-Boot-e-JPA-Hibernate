@@ -1,6 +1,6 @@
-package com.projetocomspring.Curso.resources;
+package com.projetocomspring.course.resources;
 
-import com.projetocomspring.Curso.entities.User;
+import com.projetocomspring.course.entities.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

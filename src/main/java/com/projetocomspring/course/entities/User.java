@@ -1,4 +1,4 @@
-package com.projetocomspring.Curso.entities;
+package com.projetocomspring.course.entities;
 
 import jakarta.persistence.*;
 
