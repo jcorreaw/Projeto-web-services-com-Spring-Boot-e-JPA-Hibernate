@@ -6,7 +6,7 @@ Projeto web services é uma aplicação Back end feita durante o curso de Java C
 A aplicação consiste em realizar operações básicas em banco de dados.
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/jcorreaw/Projeto-web-services-com-Spring-Boot-e-JPA-Hibernate/blob/main/modelo-conceitual.png)
 
 # Tecnologias utilizadas
 ## Back end
