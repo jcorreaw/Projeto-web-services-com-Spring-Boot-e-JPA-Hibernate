@@ -24,8 +24,12 @@ Pré-requisitos: Java 17
 # clonar repositório
 git clone https://github.com/jcorreaw/Projeto-web-services-com-Spring-Boot-e-JPA-Hibernate.git
 
-# entrar na pasta do projeto e executar (Para fins de estudos)
-cd src/main/java/com/projetocomspring/course/CursoApplication
+# entrar na pasta do projeto e executar "CursoApplication" em uma IDE (Para fins de estudos, banco de dados utilizado H2 para testes)
+src/main/java/com/projetocomspring/course/
+
+# Para realizar troca dos dados, realize no arquivo
+src/main/java/com/projetocomspring/course/config/TestConfig
+
 ```
 
 # Autor
