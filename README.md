@@ -15,6 +15,19 @@ A aplicação consiste em realizar operações básicas em banco de dados.
 - JPA / Hibernate
 - Maven
 
+- # Como executar o projeto
+
+## Back end
+Pré-requisitos: Java 17
+
+```bash
+# clonar repositório
+git clone https://github.com/jcorreaw/Projeto-web-services-com-Spring-Boot-e-JPA-Hibernate.git
+
+# entrar na pasta do projeto e executar (Para fins de estudos)
+cd src/main/java/com/projetocomspring/course/CursoApplication
+```
+
 # Autor
 
 João Carlos Alves Corrêa
