@@ -1,5 +1,5 @@
 # Projeto web services
-[![NPM](https://img.shields.io/npm/l/react)]([https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE](https://github.com/jcorreaw/Projeto-web-services-com-Spring-Boot-e-JPA-Hibernate/blob/main/LICENSE)) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jcorreaw/Projeto-web-services-com-Spring-Boot-e-JPA-Hibernate/blob/main/LICENSE) 
 
 # Sobre o projeto
 Projeto web services é uma aplicação Back end feita durante o curso de Java COMPLETO 2023 Programação Orientada a Objetos +Projetos.
